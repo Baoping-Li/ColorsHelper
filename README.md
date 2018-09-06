@@ -1,3 +1,3 @@
 A very simple app to show the WPF SystemColors
 
-[UI.png]
+![The result](https://github.com/Baoping-Li/ColorsHelper/blob/master/UI.png)
