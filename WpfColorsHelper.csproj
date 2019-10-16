@@ -78,7 +78,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BasicCommand.cs" />
     <Compile Include="ColorsViewModel.cs" />
+    <Compile Include="FontsViewModel.cs" />
     <Compile Include="InversColorConverter.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
